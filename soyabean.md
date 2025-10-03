@@ -1,64 +1,51 @@
-## 1. **Pre-sowing & Germination (0–15 DAS)**
+### **1. Pre-Sowing / Seed Treatment**
+* **Objective:** Ensure good germination and early root development.
+* **Fertilizers:**
+  * **Rhizobium inoculant:** Essential for N-fixation.
+  * **Optional:** Small dose of phosphorus if soil P is low (e.g., 20–25 kg/acre of Single Super Phosphate [SSP]).
+* **Reason:** Inoculation helps nodulation, which allows the plant to fix its own nitrogen. Phosphorus promotes root growth and early vigor.
 
-* **Nutrient focus**: Starter Nitrogen (N), Phosphorus (P), and Micronutrients
-* Soybean seeds need a small dose of **N (4–6 kg/acre)** to support seedlings before nodules become active.
-* **Phosphorus** is crucial for root growth, early nodulation, and energy transfer.
-* **Zinc & Molybdenum** help in enzyme activity and nitrogen fixation.
-* **Fertigation**:
+### **2. Vegetative Stage (V1–V5)**
+* **Stage:** From emergence to 5 trifoliate leaves.
+* **Fertilizers (via fertigation):**
+  * **Potassium (K2O):** 10–15 kg/acre using potassium sulfate (K2SO4).
+  * **Micronutrients (if deficient):** Boron (B), Zinc (Zn) in chelated forms.
+* **Reason:**
+  * Potassium supports vegetative growth and stress resistance.
+  * Micronutrients support enzymatic activity and chlorophyll production.
 
-  * Apply water-soluble **DAP (6–8 kg/acre)** or **MAP (5–9 kg/acre)**.
-  * Add **Zinc sulfate (ZnSO₄)** and **Ammonium molybdate** (seed treatment or via fertigation).
+### **3. Flowering / Pod Initiation (R1–R3)**
+* **Stage:** Beginning of flowering to pod formation.
+* **Fertilizers (via fertigation):**
+  * **Phosphorus (P2O5):** 10–15 kg/acre using mono ammonium phosphate (MAP) or DAP.
+  * **Potassium (K2O):** 15 kg/acre using K2SO4.
+  * **Boron (B):** 0.5–1 kg/acre foliar or fertigation.
+* **Reason:**
+  * Phosphorus is critical for flower and pod development.
+  * Potassium supports water regulation and pod filling.
+  * Boron is vital for flowering and pollination.
 
+### **4. Pod Filling / Grain Development (R4–R6)**
+* **Stage:** From pod filling to seed maturity.
+* **Fertilizers (via fertigation):**
+  * **Potassium (K2O):** 15–20 kg/acre using K2SO4.
+  * **Sulfur (S):** 5–10 kg/acre (if deficient).
+  * **Zinc (Zn) / Boron (B):** Foliar spray if needed.
+* **Reason:**
+  * Potassium improves seed size, weight, and protein content.
+  * Sulfur is essential for amino acids and protein synthesis.
+  * Micronutrients ensure quality seeds.
 
+### **5. Maturity Stage (R7–R8)**
+* **Stage:** Physiological maturity, harvest-ready seeds.
+* **Fertilizers:** No major fertigation needed. Only maintain moisture until harvest.
+* **Reason:** Plants are finishing nutrient uptake; extra fertilizers may be wasted.
 
-## 2. **Vegetative Growth (15–35 DAS)**
-
-* **Nutrient focus**: Phosphorus (P), Potassium (K), Calcium (Ca), Sulfur (S), and Micronutrients.
-* Nodules become functional; crop relies less on external N.
-* **K and Ca** strengthen cell walls, aid photosynthesis, and improve stress tolerance.
-* **Sulfur** is important for protein synthesis.
-* **Fertigation**:
-
-  * Supply **SOP (Sulphate of Potash, 0-0-50) 2–4 kg/acre split**.
-  * Add **Calcium nitrate 2–3 kg/acre**.
-  * Supplement **boron (B)** and **iron (Fe)** if deficiency-prone soils.
-
-
-
-## 3. **Flowering & Pod Initiation (35–60 DAS)**
-
-* **Nutrient focus**: Potassium (K), Boron (B), Calcium (Ca), Magnesium (Mg).
-* This is the **critical stage for yield**. Nutrient deficiency here reduces pod set.
-* **K** improves flower retention, translocation of sugars, and pod filling.
-* **Boron & Ca** help in pollen germination and pod setting.
-* **Fertigation**:
-
-  * **SOP 3–4 kg/acre weekly**.
-  * **Calcium nitrate 2–3 kg/acre** alternate weeks.
-  * **Magnesium sulfate (MgSO₄ 2 kg/acre)** if deficiency visible.
-  * Foliar spray of **1% Borax** at pre-flowering if B deficiency suspected.
-
-
-
-## 4. **Pod Filling & Maturity (60–90 DAS)**
-
-* **Nutrient focus**: Potassium (K), Sulfur (S), Micronutrients.
-* **K** is most important now for seed filling, protein synthesis, and drought tolerance.
-* **S** helps with protein content in grains.
-* **Fertigation**:
-
-  * **SOP 2–3 kg/acre weekly until pod maturity.**
-  * Foliar spray of **1% KNO₃** during grain filling improves seed weight.
-  * Avoid excess nitrogen at this stage (delays maturity, reduces seed quality).
-
-
-
-✅ **General notes for soybean fertigation**:
-
-* Total **N requirement is low (8–12 kg/acre)** since nodules fix most of it.
-* **P requirement is high (16–25 kg/acre)** for root growth & nodulation.
-* **K requirement (16–20 kg/acre)** is crucial for drought tolerance & pod filling.
-* Micronutrients: Zn, Fe, B, Mo are especially important for legumes.
-* Fertigation should always be in **split doses** rather than one-time application.
+### **6. Notes for 1 Acre**
+* 1 acre ≈ 0.405 hectares.
+* Calculate fertilizer doses proportionally based on soil test results. Soil test is crucial for accurate application.
+* Use drip irrigation or sprinkler systems for effective fertigation.
+* Maintain pH between 6–7 for nutrient availability.
+* Avoid excess nitrogen as soybean is a legume and may reduce nodulation.
 
 
