@@ -15,6 +15,10 @@
 - till 15 may we can do field ready for next pik
 
 ## 3. sweet corn
+- seed
+    - cp sweet 2
+- seed treatment
+    - not done
 - time
     - sweet corn comes for harvesting after exact 75 days.
     - it should come for harvesting in last week of june and 1st week of july for good rate.
