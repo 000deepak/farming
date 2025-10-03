@@ -49,3 +49,22 @@
 * Avoid excess nitrogen as soybean is a legume and may reduce nodulation.
 
 
+## spray i did
+### 0 - 15
+- if needed
+### 15 - 45
+    - proclaim(15gm/20l) + neem Oil 1lakh ppm(20ml/20liter) - plain insecticide to keed tds and ph ok
+    - 12 61 00 + zn
+### 45 days just flowering started
+- 100 liter
+  - profex super 200ml
+  - roco 100ml
+  - calcium nitrate 700gm
+  - chelated Fe 100gm
+  - gharda chamatkar 200ml (or levocin)
+### 70 days
+- 120litre
+  - phnolphos 240ml
+  - contaf 120ml
+  - 13 0 45 800gm
+  - boron 150gm

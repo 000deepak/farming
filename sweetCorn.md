@@ -30,3 +30,16 @@
 * **SOP (K):** 3.2–4.0 kg/acre weekly until harvest.
 * **KNO₃ foliar (1%):** once at milk stage for sweetness & kernel filling.
 * **Reduce N** supply at this stage to avoid excess vegetative growth.
+
+
+
+## spray i did
+
+### 0 - 15
+- if needed
+### 15 - 45
+    - proclaim(15gm/20l) + neem Oil 1lakh ppm(20ml/20liter) - plain insecticide to keed tds and ph ok
+    - 12 61 00 + zn
+### 45 - 60
+    - coragen
+### 60 - 80

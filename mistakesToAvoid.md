@@ -16,7 +16,7 @@
 
 ## 3. sweet corn
 - seed
-    - cp sweet 2
+    - perfer "cp sweet 2" or Namdev umaji "sweet 16"
 - seed treatment
     - not done
 - time
@@ -32,6 +32,8 @@
     - use slurry to reduce ph and for micronutrient
     - N is very important at tasseling stage for cob development.
 - distance
+    - plant at lower end of bed (thapi)
+    - when planted on top of bed, when height increase after 50 days not able to spray
     - minimum distance between two linear seeds should be 1feet, this time we gave 7-9 inch due to which cobs got too small reducing harvest.
     - horizontal distance between to lines on same be should be 1 feet.
     - 4 feet bed is ideal.
@@ -65,6 +67,7 @@
 - herbicide
     - used Goal within 48 hours of sowing seed it will give result till one month.
     - after that use Fusiflex for herbicide.
+    - fusiflex should be used within 30 days after planation of soyabean otherwise later it will affect flowers
 - pesticide
     - proclaim will do required work.
     - this time sprayed proclaim, zn, neem oil 1lakh ppm, citric acid and sticker.
