@@ -5,7 +5,7 @@
   * **Optional:** Small dose of phosphorus if soil P is low (e.g., 20–25 kg/acre of Single Super Phosphate [SSP]).
 * **Reason:** Inoculation helps nodulation, which allows the plant to fix its own nitrogen. Phosphorus promotes root growth and early vigor.
 
-### **2. Vegetative Stage (V1–V5)**
+### **2. Vegetative Stage (10-30)**
 * **Stage:** From emergence to 5 trifoliate leaves.
 * **Fertilizers (via fertigation):**
   * **Potassium (K2O):** 10–15 kg/acre using potassium sulfate (K2SO4).
@@ -14,7 +14,7 @@
   * Potassium supports vegetative growth and stress resistance.
   * Micronutrients support enzymatic activity and chlorophyll production.
 
-### **3. Flowering / Pod Initiation (R1–R3)**
+### **3. Flowering / Pod Initiation (45-60)**
 * **Stage:** Beginning of flowering to pod formation.
 * **Fertilizers (via fertigation):**
   * **Phosphorus (P2O5):** 10–15 kg/acre using mono ammonium phosphate (MAP) or DAP.
@@ -25,7 +25,7 @@
   * Potassium supports water regulation and pod filling.
   * Boron is vital for flowering and pollination.
 
-### **4. Pod Filling / Grain Development (R4–R6)**
+### **4. Pod Filling / Grain Development (60-80)**
 * **Stage:** From pod filling to seed maturity.
 * **Fertilizers (via fertigation):**
   * **Potassium (K2O):** 15–20 kg/acre using K2SO4.
@@ -36,7 +36,7 @@
   * Sulfur is essential for amino acids and protein synthesis.
   * Micronutrients ensure quality seeds.
 
-### **5. Maturity Stage (R7–R8)**
+### **5. Maturity Stage (80-110)**
 * **Stage:** Physiological maturity, harvest-ready seeds.
 * **Fertilizers:** No major fertigation needed. Only maintain moisture until harvest.
 * **Reason:** Plants are finishing nutrient uptake; extra fertilizers may be wasted.
