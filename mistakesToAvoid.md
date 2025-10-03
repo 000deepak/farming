@@ -4,6 +4,10 @@
 - till 10 may field will be empty 
 - do all the tractor work till 15 may
 - after 15 may rain will start so will not able to do tractor work
+- planted on 22 march 2025
+    - harvested on 2 june started
+    - 2 feet sari method by tractor
+    - 8 kg per acre seed needed
 
 ## 2. makka pik
 - do plantation in first week of january
@@ -11,16 +15,54 @@
 - till 15 may we can do field ready for next pik
 
 ## 3. sweet corn
-- sweet corn comes for harvesting after exact 75 days.
-- it should come for harvesting in last week of june and 1st week of july for good rate.
-- for that it should be planted on 10 APRIL then it will come harvesting on 25 june i.e after 75 days.
-- missed fungicide last this time so use fungicde other wise leaves start drying.
-- missed proper fertigation expecially for N especially due to which lower leaves started drying.
-- give proper K and Ca also.
-- all the lower leaves and upper leaves should be green till harvesting for that do prorper N and fungicides from start.
-- N in form of nitrate, urea or ammonium sulphate should be given.
-- minimum distance between two linear seeds should be 1feet, this time we gave 7-9 inch due to which cobs got too small reducing harvest.
-- horizontal distance between to lines on same be should be 1 feet.
-- 4 feet bed is ideal.
-- used atrazine within 48 hours of sowing seed it will give result till one month.
-- after that use calaris for herbicide.
+- time
+    - sweet corn comes for harvesting after exact 75 days.
+    - it should come for harvesting in last week of june and 1st week of july for good rate.
+    - for that it should be planted on 10 APRIL then it will come harvesting on 25 june i.e after 75 days.
+- fungicide & fertigation
+    - missed fungicide last this time so use fungicde other wise leaves start drying.
+    - missed proper fertigation expecially for N especially due to which lower leaves started drying.
+    - give proper K and Ca also.
+    - all the lower leaves and upper leaves should be green till harvesting for that do prorper N and fungicides from start.
+    - N in form of nitrate, urea or ammonium sulphate should be given.
+    - use slurry to reduce ph and for micronutrient
+    - N is very important at tasseling stage for cob development.
+- distance
+    - minimum distance between two linear seeds should be 1feet, this time we gave 7-9 inch due to which cobs got too small reducing harvest.
+    - horizontal distance between to lines on same be should be 1 feet.
+    - 4 feet bed is ideal.
+- herbicide
+    - used atrazine within 48 hours of sowing seed it will give result till one month.
+    - after that use calaris for herbicide.
+- pesticide
+    - proclaim will do required work.
+    - this time sprayed proclaim, zn, neem oil 1lakh ppm, citric acid and sticker.
+- planted on 25 june
+    - harvested on 10 september
+
+## 3. soyabean
+- time
+    - comes for harvesting after exact 120 days.
+    - it should come for harvesting in 1st week of october
+    - so that we can plant chickpea on 15 october
+    - plant in 1st week of june to come for harvesting in 1st week of october
+- distance
+    - minimum distance between two linear seeds should be 9inch
+    - horizontal distance between to lines on same be should be 1 feet.
+    - 4 feet bed is ideal.
+- fungicide & fertigation
+    - missed 0 0 50 this time so use it to restrict more vegitatice growth
+    - give o o 50 two time till flowering stage
+    - give sulphur,znso4,feso4 and grade like 10 26 26 as basal dose
+    - 1st spray 12 61 00, neem oil
+    - N in form of nitrate, urea or ammonium sulphate should be given.
+    - use slurry to reduce ph and for micronutrient
+    - N is very important at tasseling stage for cob development.
+- herbicide
+    - used Goal within 48 hours of sowing seed it will give result till one month.
+    - after that use Fusiflex for herbicide.
+- pesticide
+    - proclaim will do required work.
+    - this time sprayed proclaim, zn, neem oil 1lakh ppm, citric acid and sticker.
+- planted on 25 june
+    - harvested on 10 october
