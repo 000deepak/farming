@@ -9,7 +9,7 @@
   * Apply water-soluble **DAP (6–8 kg/acre)** or **MAP (5–9 kg/acre)**.
   * Add **Zinc sulfate (ZnSO₄)** and **Ammonium molybdate** (seed treatment or via fertigation).
 
----
+
 
 ## 2. **Vegetative Growth (15–35 DAS)**
 
@@ -23,7 +23,7 @@
   * Add **Calcium nitrate 2–3 kg/acre**.
   * Supplement **boron (B)** and **iron (Fe)** if deficiency-prone soils.
 
----
+
 
 ## 3. **Flowering & Pod Initiation (35–60 DAS)**
 
@@ -38,7 +38,7 @@
   * **Magnesium sulfate (MgSO₄ 2 kg/acre)** if deficiency visible.
   * Foliar spray of **1% Borax** at pre-flowering if B deficiency suspected.
 
----
+
 
 ## 4. **Pod Filling & Maturity (60–90 DAS)**
 
@@ -51,7 +51,7 @@
   * Foliar spray of **1% KNO₃** during grain filling improves seed weight.
   * Avoid excess nitrogen at this stage (delays maturity, reduces seed quality).
 
----
+
 
 ✅ **General notes for soybean fertigation**:
 
@@ -61,4 +61,4 @@
 * Micronutrients: Zn, Fe, B, Mo are especially important for legumes.
 * Fertigation should always be in **split doses** rather than one-time application.
 
----
+

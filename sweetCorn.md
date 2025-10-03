@@ -6,7 +6,7 @@
 * **MAP (12-61-0):** 3.2–4.0 kg/acre.
 * **ZnSO₄:** 0.8–1.2 kg/acre (or foliar if needed).
 
----
+
 
 ### **2) Early vegetative (15–30 DAS)**
 
@@ -14,14 +14,14 @@
 * **MAP (extra P if required):** 2.0–3.2 kg/acre.
 * **MgSO₄ (one-time):** 2.0 kg/acre.
 
----
+
 
 ### after 1 month
 - nitrogen should be in nitrate form which is readily available (prefer calcium nitrate)
 - tight budget get urea
 - ammoniim sulphate should be used upto 1 month but later prefer nitrate form, ammonium sulphate does not contain readliy available nitrogen
 
----
+
 ### **3) Rapid vegetative growth (30–45 DAS)**
 - nitrogen should be in nitrate form which is readily available (prefer calcium nitrate)
 - tight budget get urea
@@ -30,7 +30,7 @@
 * **SOP (0-0-50):** 2.0–3.2 kg/acre per week.
 * **Micronutrients:** foliar/drip as per deficiency (Zn, Mn, Fe, B).
 
----
+
 
 ### **4) Tasselling & silking (45–65 DAS) – critical stage**
 
@@ -39,7 +39,7 @@
 * **Calcium nitrate:** 2.0–3.2 kg/acre weekly.
 * **Boron:** 0.4–0.8 kg/acre (1% foliar or via drip).
 
----
+
 
 ### **5) Grain filling & maturity (65–90 DAS)**
 

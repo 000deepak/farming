@@ -46,7 +46,7 @@
    * No major fertigation needed; crop mainly uses stored nutrients.
    * Potassium at this stage can improve grain quality if deficiency is observed.
 
----
+
 
 ### **Key Points**
 
@@ -56,4 +56,4 @@
 * **Micronutrients**: Zinc, Boron, Iron as foliar sprays based on soil test.
 * **Soil testing** before fertigation is highly recommended for precise doses.
 
----
+
