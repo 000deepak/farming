@@ -36,6 +36,12 @@
   * **SOP 2–3 kg/acre weekly until pod maturity.**
   * Foliar spray of **1% KNO₃** during grain filling improves seed weight.
   * Avoid excess nitrogen at this stage (delays maturity, reduces seed quality).
+```
+- at  55-60 days nitrogen at leaves starts getting utilized to feed fruits so rhizobium does not get nitrogen from enviorment
+- so it starts to become inactive
+- also potash works for fruit development
+- so give extra nitrogen using 13 00 45.
+```
 
 ✅ **General notes for chickpea fertigation**:
 * Total **N requirement is low (8–12 kg/acre)** since nodules fix most of it.
@@ -44,4 +50,17 @@
 * Micronutrients: Zn, Fe, B, Mo are especially important for legumes.
 * Fertigation should always be in **split doses** rather than one-time application.
 
+```
+medium soil
+30 days water
+50 days water
+75 days
 
+heavy soil
+30 days
+60 days
+
+psb 
+rhizobium
+250gm/10kg
+```
