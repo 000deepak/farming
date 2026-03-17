@@ -42,7 +42,8 @@
 - Total = 1,10,000
 
 ## Net Profit
-1,10,000 - 35000 = 72000/-
+- 1,10,000 - 35000 = 72000/-
+- invested 37 got 72 double
 
 ## shalu bhumi(4 feet bed with drip token method) 2025-2026
 - land preparation 0/-
@@ -78,3 +79,4 @@
 
 ## net profit
 - 41000 - 13000 = 28000/-
+- invested 13 got 28 double
