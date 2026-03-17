@@ -1,12 +1,15 @@
 ## shalu 2025-2026
 - perni 15 october 2025
+  - seed 4kg/acre 500/-
   - 2100/-  @1700*1.25
   - 10 26 26, 1900/-
   - sulphur, 700/-
   - 24 24 00 half bag, 600/-
-- pani pajne 6000/- @200 per pani
-  - 2bag urea per pani
-    - 600  
+- pani pajne, 3 pani dile = 6000/- @2000 0per pani
+  - 2bag urea per pani @300/bag
+    - 1800
+- shalu chimatne = 6 bayka 8pm-1pm @200 + 400 transport
+  - 1600 
 - kolapni
   - @2000/- @1000*2
 - 1 spray @600/-
@@ -31,7 +34,7 @@
 - malni bayka = 160*40 = 6400/-
 - kadba bandne = 4000
 - poti transport = 700
-- Total = 35000/-
+- Total = 37000/-
 
 ## Total Produce
 - 20 quintal shalu @40 =  80,000
@@ -39,4 +42,4 @@
 - Total = 1,10,000
 
 ## Net Profit
-1,10,000 - 35000 = 75000/-
+1,10,000 - 35000 = 72000/-
