@@ -1,5 +1,5 @@
 ## shalu 2025-2026
-- perni 15 october 2025
+- perni 15 october 2025 (should be done on 1 october next time, due to rain)
   - seed 4kg/acre 500/-
   - 2100/-  @1700*1.25
   - 10 26 26, 1900/-
