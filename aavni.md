@@ -1,0 +1,12 @@
+## shalu 2025-2026
+- perni 15 october 2025
+- shalu kapni 25 februay,
+  - cost 10,000/- 25 gadi @400 
+- malni on 6 march
+  - 18 quintal @250 = 4500/-
+- bayka khudni and malni @20kg per women
+  - 8 bayka = 160kg shalu
+- kadba pendi bandane
+  - 400/shekda
+  - 1000 pendi
+  - total cost 4000/-
