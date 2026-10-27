@@ -3,7 +3,7 @@
 - giving water also difficult if perni and not able to walk between
 - weeding also difficult
 -  
-- soyabean should be harvested excatle after 100 days otherwise beans began to fall
+- soyabean should be harvested excatle after 100- before 105 days otherwise beans began to fall
 - lots of beans falled due to latee harvesting
 - once soyabean falls then again it grows in shalu as weed
 
