@@ -1,5 +1,5 @@
-## urvi
-- machin wheel used : 5 and 6 no
+
+## urvi (- machin wheel used : 5 and 6 no)
 | Task | Date | Material | Cost |
 |---|---|---|---|
 | seed |  | 20kg | 2200(1100/10kg) |
