@@ -15,3 +15,9 @@ for shalu
 - chimatni compulsary done before 20days otherwise plants gp big and difficult to uprrot and disturb other plant roots
 - bail पाळी done after chimatni only so that soil suppuorts the plants after lossning afte chimatni
 - then water with urea
+- after 20 days, compulsary do 3 things
+  - chimatni
+  - kolapni
+  - spray, emamectin benzoate/coragen
+- when soyabean removed, fan marne is necessary and then rotor for shalu
+- 
